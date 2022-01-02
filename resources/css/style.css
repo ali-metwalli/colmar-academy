@@ -1,0 +1,19 @@
+body{
+    margin: 0 auto;
+    background-color: #f0f0f0;
+}
+
+header {
+    display: flex;
+    background-color: white;
+}
+
+ul {
+    display: flex;
+    justify-content: flex-end;
+}
+
+li {
+    list-style: none;
+    margin-right: 16px;
+}
